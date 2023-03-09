@@ -13,7 +13,7 @@
 - CSES
 - Atcoder
 
-## Course 1 (3/13) Introduction and Time Time/Space Complexity
+## Course 1 (3/13) Introduction and Time/Space Complexity
 
 ## Course 2
 
