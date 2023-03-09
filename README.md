@@ -15,7 +15,9 @@
 
 ## Course 1 (3/13) Introduction and Time/Space Complexity
 
-## Course 2
+## Course 2 (3/17) Enumerate I
+
+- 位元枚舉需要ㄇ ?
 
 ## Course 3
 
