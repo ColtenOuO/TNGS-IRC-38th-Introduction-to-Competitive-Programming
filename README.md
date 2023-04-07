@@ -17,9 +17,7 @@
 
 ## Course 2 (3/17) Enumerate I
 
-- 位元枚舉需要ㄇ ?
-
-## Course 3
+## Course 3 (4/7) Enumerate II and Time Complexity Skills
 
 ## Course 4
 
