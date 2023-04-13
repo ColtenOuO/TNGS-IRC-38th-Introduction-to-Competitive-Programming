@@ -19,6 +19,6 @@
 
 ## Course 3 (4/7) Enumerate II and Time Complexity Skills
 
-## Course 4
+## Course 4 (4/10) Array and Time Complexity Skills
 
 ## Course 5
