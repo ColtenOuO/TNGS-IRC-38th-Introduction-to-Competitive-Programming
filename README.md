@@ -14,11 +14,11 @@
 - Atcoder
 
 ## Course 1 (3/13) Introduction and Time/Space Complexity
-
+- 簡報例題練習
 ## Course 2 (3/17) Enumerate I
-
+- 簡報例題練習
 ## Course 3 (4/7) Enumerate II and Time Complexity Skills
-
+- 簡報例題練習
 ## Course 4 (4/10) Array and Time Complexity Skills
-
+- 簡報例題練習
 ## Course 5
