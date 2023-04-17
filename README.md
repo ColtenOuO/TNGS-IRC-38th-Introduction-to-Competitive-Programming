@@ -21,4 +21,5 @@
 - 簡報例題練習
 ## Course 4 (4/10) Array and Time Complexity Skills
 - 簡報例題練習
-## Course 5
+## Course 5 (4/17)  Array and Time Complexity Skills II
+- 簡報例題練習
