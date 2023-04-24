@@ -22,10 +22,12 @@ https://docs.google.com/spreadsheets/d/176hoAWBaHIhrvM5FFuu37Frj9iI2ORNiSoPD89lW
 ## Course 2 (3/17) Enumerate I
 - 簡報例題練習
 ## Course 3 (4/7) Enumerate II and Time Complexity Skills
+- 課程影片：https://youtu.be/5A110kjBWi8
 - 簡報例題練習
 ## Course 4 (4/10) Array and Time Complexity Skills
 - 簡報例題練習
 ## Course 5 (4/17)  Array and Time Complexity Skills II
+- 課程影片：https://youtu.be/OgecdELVqek
 - 簡報例題練習
 
 ## Course 6 (4/24) Data Structures I (Standard Templete Library)
