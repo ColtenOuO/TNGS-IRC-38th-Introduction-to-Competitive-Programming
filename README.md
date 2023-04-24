@@ -31,3 +31,5 @@ https://docs.google.com/spreadsheets/d/176hoAWBaHIhrvM5FFuu37Frj9iI2ORNiSoPD89lW
 ## Course 6 (4/24) Data Structures I (Standard Templete Library)
 - 課程影片：https://youtu.be/GdtGuNM5fLg
 - 簡報例題練習
+
+## Course 7 (4/24) Data Structures Practice (Standard Templete Library)
