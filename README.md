@@ -13,6 +13,10 @@
 - CSES
 - Atcoder
 
+### 題單連結
+
+https://docs.google.com/spreadsheets/d/176hoAWBaHIhrvM5FFuu37Frj9iI2ORNiSoPD89lWsVU/edit?usp=sharing
+
 ## Course 1 (3/13) Introduction and Time/Space Complexity
 - 簡報例題練習
 ## Course 2 (3/17) Enumerate I
@@ -22,4 +26,8 @@
 ## Course 4 (4/10) Array and Time Complexity Skills
 - 簡報例題練習
 ## Course 5 (4/17)  Array and Time Complexity Skills II
+- 簡報例題練習
+
+## Course 6 (4/24) Data Structures I (Standard Templete Library)
+- 課程影片：https://youtu.be/GdtGuNM5fLg
 - 簡報例題練習
