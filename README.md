@@ -35,7 +35,8 @@ https://docs.google.com/spreadsheets/d/176hoAWBaHIhrvM5FFuu37Frj9iI2ORNiSoPD89lW
 - 簡報例題練習
 
 ## Course 7 (4/24) Data Structures Practice (Standard Templete Library)
-
+- 簡報例題練習
 ## Course 8 (5/1) Practice
 
 ## Course 9 (5/5) Binary Search
+- 簡報例題練習
