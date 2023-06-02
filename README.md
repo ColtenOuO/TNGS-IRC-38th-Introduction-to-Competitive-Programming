@@ -44,4 +44,5 @@ https://docs.google.com/spreadsheets/d/176hoAWBaHIhrvM5FFuu37Frj9iI2ORNiSoPD89lW
 ## Course 10 (5/29) Two Pointers
 - 簡報例題練習
 
-https://codeforces.com/group/H0qY3QmnOW/contest/376399/problem/F1
+https://codeforces.com/group/H0qY3QmnOW/contest/376399/problem/F1 
+@aoggg
