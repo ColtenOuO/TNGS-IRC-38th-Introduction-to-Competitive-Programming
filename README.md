@@ -46,3 +46,6 @@ https://docs.google.com/spreadsheets/d/176hoAWBaHIhrvM5FFuu37Frj9iI2ORNiSoPD89lW
 
 https://codeforces.com/group/H0qY3QmnOW/contest/376399/problem/F1 
 @aoggg
+
+## Course 11 (6/3) Dynamic Programming I
+- 簡報例題練習
